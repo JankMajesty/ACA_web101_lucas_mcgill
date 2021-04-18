@@ -56,6 +56,10 @@ header{
     margin: 10px;
     padding: 10px;
     }
+
+    img:hover{     
+      display: none;
+    }
     
     /* .center {
         display: block;
